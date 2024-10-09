@@ -1,0 +1,9 @@
+diff a/src/Main.kt b/src/Main.kt	(rejected hunks)
+@@ -10,5 +10,6 @@
+         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
+         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
+         println("i = $i")
++        println("HYUNDAI")
+     }
+ }
+\ No newline at end of file
