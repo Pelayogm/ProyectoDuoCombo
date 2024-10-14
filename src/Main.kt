@@ -11,5 +11,8 @@ fun main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         println("i = $i")
         println("IYAN MI ENORME DELEGADO DELGADO")
+        println("Opel Corsa Nuevo, tapiceria de cuero nueva, 5 velocidades, diesel")
+        println("Poco uso, gasta poco, 4,4 a los 100")
+        println("Tiene blututh")
     }
 }
