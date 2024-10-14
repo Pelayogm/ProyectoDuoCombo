@@ -10,5 +10,8 @@ fun main() {
         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         println("i = $i")
+        println("HYUNDAI")
+        println("Println desde pelayoEsMuyMalo por raul")
+        println("Hotfix 1.02 Raúl")
     }
 }
