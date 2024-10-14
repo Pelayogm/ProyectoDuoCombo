@@ -11,10 +11,11 @@ fun main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         println("i = $i")
         println("HYUNDAI")
-<<<<<<< HEAD
+"<<<<<<<" //HEAD
         
-=======
+//=======
         println("TOSTADORA HD+")
->>>>>>> feature/BancaOnlinePro
+//>>>>>> feature/BancaOnlinePro
+        println("Chiribitas de la mar")
     }
 }
