@@ -12,6 +12,7 @@ fun main() {
         println("i = $i")
         println("HYUNDAI")
 <<<<<<< HEAD
+<<<<<<< HEAD
         
 =======
         println("TOSTADORA HD+")
@@ -20,5 +21,9 @@ fun main() {
 =======
         println("Error Fatal")
 >>>>>>> feature/BancaOnlinePro
+=======
+        println("Println desde pelayoEsMuyMalo por raul")
+        println("Hotfix 1.02 Raúl")
+>>>>>>> Hotfix_1.02_Raúl
     }
 }
