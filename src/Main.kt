@@ -12,5 +12,6 @@ fun main() {
         println("i = $i")
         println("HYUNDAI")
         println("TOSTADORA HD+")
+        println("Error Fatal")
     }
 }
