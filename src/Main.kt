@@ -11,12 +11,6 @@ fun main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         println("i = $i")
         println("HYUNDAI")
-<<<<<<< HEAD
-//<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 557ab1794ff215e21cfbe224f4ee4d41f59d31d7
         
 //=======
         println("TOSTADORA HD+")
@@ -26,14 +20,15 @@ fun main() {
         println("DANIEL NO ES DELEGADO")
         println("Raul es charcutero")
         println("Error Fatal")
-<<<<<<< HEAD
                 //>>>>>>> feature/BancaOnlinePro
-=======
->>>>>>> feature/BancaOnlinePro
-=======
+//=======
+//>>>>>>> feature/BancaOnlinePro
+//=======
         println("Println desde pelayoEsMuyMalo por raul")
         println("Hotfix 1.02 Raúl")
->>>>>>> Hotfix_1.02_Raúl
->>>>>>> 557ab1794ff215e21cfbe224f4ee4d41f59d31d7
+//>>>>>>> Hotfix_1.02_Raúl
+//>>>>>>> 557ab1794ff215e21cfbe224f4ee4d41f59d31d7
+
+        //Ayuda esto es mi Ford Fiesta centralita 4K HD
     }
 }
