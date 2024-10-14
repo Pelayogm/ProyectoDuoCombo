@@ -13,5 +13,6 @@ fun main() {
         println("HYUNDAI")
         println("Println desde pelayoEsMuyMalo por raul")
         println("Raul es pescadero")
+        //PORQUE ENTRA LA GENTE Y SE VA DE CLASE Y YO NO PUEDO 👀
     }
 }
