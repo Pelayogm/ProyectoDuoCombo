@@ -14,6 +14,6 @@ fun main() {
         println("Println desde pelayoEsMuyMalo por raul")
         println("Hotfix 1.02 Raúl")
         println("como podeis ser todos tan malos??")
-        println("calla calla calla")
+        println("Upgrade, case battle, gambling, derroche")
     }
 }
