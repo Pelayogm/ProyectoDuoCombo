@@ -15,6 +15,10 @@ fun main() {
         
 =======
         println("TOSTADORA HD+")
+<<<<<<< HEAD
+>>>>>>> feature/BancaOnlinePro
+=======
+        println("Error Fatal")
 >>>>>>> feature/BancaOnlinePro
     }
 }
