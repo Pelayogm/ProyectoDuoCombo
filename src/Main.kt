@@ -18,5 +18,8 @@ fun main() {
 //>>>>>> feature/BancaOnlinePro
         println("Chiribitas de la mar")
         println("Dani no es delegado")
+        println("La vida es como una lenteja, si no la quieres la dejas")
+            //NO SE COMO SE HACE UN FOR AYUDA POR FAVOR
+
+        }
     }
-}
